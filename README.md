@@ -1,2 +1,2 @@
-# cashhGO
+# cashGO
 Official cashGO Website
